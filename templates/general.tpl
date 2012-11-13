@@ -112,8 +112,9 @@
 							<li>Articles</li>
 							<li>Amount: 2124623</li>
 							<li>Authors: 1156</li>
-							<li>Most active author: Fka</li>
+							<li>Articles per day: 1.01</li>
 							<li>Avg articles per author: 12.91</li>
+							<li>Most active author: Fka</li>							
 						</ul>
 						<ul>
 							<li>Category</li>
@@ -132,7 +133,7 @@
 					<div class="footer-bottom">
 						<ul>
 							<li>
-								<a href="#">Version: 1.0.0</a>
+								<a href="#">Version: {$version}</a>
 							</li>
 							<li>
 								2012 Fka
