@@ -1,7 +1,7 @@
 body {
 	background-color: #F6F6F6;
 	color: #666666;
-	font-family: "Segoe UI", "Helvetica", "Arial", sans-serif;
+	font-family: "Segoe UI", "Segoe", "Helvetica", "Arial", sans-serif;
 	font-size: 14px;
 	margin: 0;
 }
@@ -127,7 +127,7 @@ input {
 	border-right-width: 2px;
 	border-top-width: 2px;
 	color: #000000;
-	font-family: "Segoe UI", "Helvetica", "Arial", sans-serif;
+	font-family: "Segoe UI", "Segoe", "Helvetica", "Arial", sans-serif;
 	font-size: 13px;
 	font-weight: 400;
 	padding: 1px;
@@ -452,6 +452,6 @@ a, a:link, a:visited {
 }
 
 @font-face {
-	font-family: "Segoe UI";
+	font-family: "Segoe";
 	src: url('fonts/segoeui.ttf');
 }
