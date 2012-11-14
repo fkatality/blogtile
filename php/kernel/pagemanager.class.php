@@ -10,7 +10,7 @@ class PageManager
 	
 	public function PageManager()
 	{
-		$this->smartyManager = new Smarty();		
+		$this->smartyManager = new Smarty();
 		$this->changelogManager = new Changelog();
 	}
 	
